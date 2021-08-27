@@ -1,0 +1,5 @@
+# ignorar la carpeta de resultados
+results/
+
+# residuos de operacion en R
+.Rhistory
