@@ -21,11 +21,15 @@ Los graficos que se generan son:
 * Parallel Coordinate Plot
 * Rango Dinámico
 
-## Los datos originales para este ejercicio vienen de: https://pubs.acs.org/doi/abs/10.1021/jasms.0c00134
+# Cítanos :)
 
-"""
-Ríos-Castro, Emmanuel, et al. "Quantitative Proteomic Analysis of MARC-145 Cells Infected with a Mexican Porcine Reproductive and Respiratory Syndrome Virus Strain Using a Label-Free Based DIA approach." Journal of the American Society for Mass Spectrometry 31.6 (2020): 1302-1312.
-"""
+Esta herramienta no tiene un paper. Pero si te sirvió para ahorrarte tiempo en tu proyecto agradeceríamos mucho que nos mencionaras en tu sección de Agradecimientos con algo como
+
+"Agradecemos a BioFreelancer por proveer herramientas Bioinformáticas Públicas utilizadas en este trabajo".
+
+En inglés: "Thanks to BioFreelancer for providing public Bioinformatic tools used in this work".
+
+Los datos originales para este ejercicio vienen de: https://pubs.acs.org/doi/abs/10.1021/jasms.0c00134
 
 #CodeHardWorkSmarter
 #BioFreelancer
