@@ -100,7 +100,7 @@ guardar_imagen( nombre_imagen = "pca.png",
 
 # graficamos el biplot
 bip <- fviz_pca_biplot( pca_resultados,
-                        axes = c(1, 2),
+                        axes = c(pc_enx, pc_eny),
                         geom.ind = "point", pointsize = 3,
                         geom.var = "arrow", col.var = "black", alpha.var = 0.3,
                         col.ind = as.factor( trans2_pca[, ultima_col] ) ,
