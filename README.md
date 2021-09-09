@@ -25,15 +25,15 @@ Los graficos que se generan son:
 
 Esta herramienta no tiene un paper. Pero si te sirvió para ahorrarte tiempo en tu proyecto agradeceríamos mucho que nos mencionaras en tu sección de Agradecimientos con algo como
 
-'''
+```
 "Agradecemos a BioFreelancer por proveer herramientas Bioinformáticas Públicas utilizadas en este trabajo".
-'''
+```
 
 En inglés
 
-'''
+```
 "Thanks to BioFreelancer for providing public Bioinformatic tools used in this work".
-'''
+```
 
 Los datos originales para este ejercicio vienen de: https://pubs.acs.org/doi/abs/10.1021/jasms.0c00134
 
