@@ -158,7 +158,7 @@ filtrado_data <- juntado_data %>%
           Count.cond2 == n_muestras_2 )
 
 # guardamos cuales se perdieron por counts
-sacado_counts <- filtrado_data <- juntado_data %>% 
+sacado_counts <- juntado_data %>% 
   filter( Count.cond1 == 0 |
           Count.cond2 == 0 )
 
