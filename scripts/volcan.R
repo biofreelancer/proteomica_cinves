@@ -11,8 +11,8 @@ base_volcano <- final_data_b %>%
   filter( Anova..p. < pvalue_limite,
           Peptide.count >= peptide_count_limite,
           Unique.peptides >= unique_peptide_limite,
-          id.cond1 >= count_limite,
-          id.cond2 >= count_limite,
+          Count.cond1 >= count_limite,
+          Count.cond2 >= count_limite,
           CV.cond1 > cv_limite,
           CV.cond2 > cv_limite )
 
